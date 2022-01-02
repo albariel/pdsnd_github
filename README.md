@@ -12,6 +12,7 @@ This project is a practice of GIT commands from UDACITY course.
 
 ### Files used
 bikeshare_2.py
+data Files: chicago.csv,new_york_city.csv,washington.csv
 
 ### Credits
 https://devconnected.com/how-to-push-git-branch-to-remote/
