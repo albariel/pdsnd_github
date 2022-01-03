@@ -231,6 +231,7 @@ def disaply_raw_data(df):
             break
 
 
+#This is the main fucntion of bikeshare_2. From here we can call other functions
 
 def main():
     while True:
