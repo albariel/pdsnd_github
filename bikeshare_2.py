@@ -235,9 +235,9 @@ def disaply_raw_data(df):
 def main():
     while True:
         #city, month, day = get_filters()
-        city='chicago'
-        month='all'
-        day = 'all'
+        city='nyc'
+        month='june'
+        day = 'monday'
         df = load_data(city, month, day)
 
         disaply_raw_data(df)
