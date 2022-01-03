@@ -242,12 +242,12 @@ def main():
 
         disaply_raw_data(df)
         time_stats(df)
-        #wait_for_next_stats()
-        #station_stats(df)
-        #wait_for_next_stats()
-        #trip_duration_stats(df)
-        #wait_for_next_stats()
-        #user_stats(df)
+        wait_for_next_stats()
+        station_stats(df)
+        wait_for_next_stats()
+        trip_duration_stats(df)
+        wait_for_next_stats()
+        user_stats(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
