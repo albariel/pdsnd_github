@@ -16,5 +16,6 @@ bikeshare_2.py
 data Files: chicago.csv,new_york_city.csv,washington.csv
 
 ### Credits
+https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo
 https://devconnected.com/how-to-push-git-branch-to-remote/
 
